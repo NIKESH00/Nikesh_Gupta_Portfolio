@@ -1,26 +1,26 @@
 {
-    "name": "Bharat Agarwal",
+    "name": "Nikesh Kumar Gupta",
     "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
     "intro": "Some introduction of yours and it can be as much as large",
     "skills": [{
-            "title": "Skill 1",
-            "rating": "90"
+            "title": "C",
+            "rating": "70"
         },
         {
-            "title": "Skill 2",
+            "title": "C++",
             "rating": "97"
         },
         {
-            "title": "Skill 3",
+            "title": "Python",
             "rating": "85"
         },{
-            "title": "Skill 1",
+            "title": "HTML5",
             "rating": "90"
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "Lovely Professional University",
+        "phone": "8968816663",
+        "email": "nikeshgupta212@gmail.com"
     }
 }
