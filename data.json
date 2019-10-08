@@ -9,18 +9,29 @@
         {
             "title": "C++",
             "rating": "82"
+        },  {
+            "title": "HTML5",
+            "rating": "85"
+        },
+               {
+            "title": "Data Structures",
+            "rating": "89"
+        }, {
+            "title": "MySQL",
+            "rating": "85"
         },
                {
             "title": "Java",
             "rating": "85"
         },
+               {
+            "title": "Linux",
+            "rating": "95"
+        },
         {
             "title": "Python",
             "rating": "80"
-        },{
-            "title": "HTML5",
-            "rating": "90"
-        }
+        },
     ],
     "contact": {
         "location": "Mohalla- Gram, Post- Jagdara, Uttar-Pradesh-277302, Sikanderpur, India",
