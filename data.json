@@ -1,26 +1,30 @@
 {
     "name": "Nikesh Kumar Gupta",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Aspiring for a good job for my professional skills",
+    "title": "Full Stack Developer, Mobile Application Developer (Android) and Cyber Security Researcher",
+    "intro": "Tech Savvy | Programmer | Skilled in C++, Java and Python | Social Media Enthusiast ",
     "skills": [{
             "title": "C",
             "rating": "70"
         },
         {
             "title": "C++",
-            "rating": "97"
+            "rating": "82"
+        },
+               {
+            "title": "Java",
+            "rating": "85"
         },
         {
             "title": "Python",
-            "rating": "85"
+            "rating": "80"
         },{
             "title": "HTML5",
             "rating": "90"
         }
     ],
     "contact": {
-        "location": "Lovely Professional University",
-        "phone": "8968816663",
+        "location": "Mohalla- Gram, Post- Jagdara, Uttar-Pradesh-277302, Sikanderpur, India",
+        "phone": "+91-8968816663",
         "email": "nikeshgupta212@gmail.com"
     }
 }
